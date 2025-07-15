@@ -1,4 +1,4 @@
-## 📘 LLM-Powered Business Chatbot — README
+## 📘 LLM-Powered Business Chatbot
 
 ### 🧠 Overview
 
