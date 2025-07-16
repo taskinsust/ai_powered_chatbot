@@ -1,0 +1,46 @@
+1. How do I place an order on Aarong website
+To learn how to place an order, view the step-by-step guide or video at https://www.aarong.com/how-to-order.
+
+2. Can I ship different items in my order to different shipping addresses
+Currently we process one shipping address per order. If you would like to ship to different addresses, you may place separate orders and make payments for them separately.
+
+3. How do I check my order status
+If you are a registered user you can check your order status any time by going to Order History from My Account.  After logging onto your account, click the Order History tab to see order details.
+
+4. If you are not a registered user, visit the contact us page and communicate with us through your preferred mean of communication
+
+5. Do I have to sign up for an Aarong account to buy something at aarong.com
+You do not have to create an account to place an order. You have the option to proceed as a guest shopper. However, you may be missing out on several benefits available to registered users – such as checking order status, order history.
+
+6. What forms of payment does Aarong accept for online purchase
+Our payment process uses a third-party gateway and you will be directed to a different site to complete the transaction.
+
+For orders placed within Bangladesh:
+
+We accept payments by Visa, Mastercard, DBBL NEXUS or AMEX debit/credit/pre-paid cards, mobile wallets (such as bKash, Rocket, SureCash, iPay, Upay, OK). Cash on delivery is also available as a payment method for your orders.
+
+For orders placed outside of Bangladesh:
+
+We accept payments by Visa, Mastercard debit/credit/pre-paid cards only.
+
+Please note that if you are using an international debit/credit card, it must be 3D secure enabled to allow 2 factor authentication. Please contact your financial institution to enable this feature.
+
+7. When will my credit card be charged
+Your card will be charged after it has been approved through our secured payment gateway.
+
+8. What currency will my order be billed in
+For Bangladesh web store:
+
+Billing/Shipping amount will be shown and charged in BDT
+
+ For web store other than Bangladesh:
+
+Billing/Shipping amount will be shown according to the webstore you choose. For example, if you select AUS, you will see the prices in AUD.
+
+Please note that due to currency conversion rate, the amount deducted from your card may vary based on the exchange rate of your bank.
+
+9. Can I use Aarong gift voucher as a mode of payment
+Yes, you can use Aarong gift voucher purchased online or in store as a mode of payment.
+
+10. Can I change my billing address
+Yes, please note that this service is only available for our registered users.

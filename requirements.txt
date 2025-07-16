@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-jose[cryptography]
+passlib[bcrypt]
+sentence-transformers
+llama-cpp-python
+scikit-learn
+numpy
+pdfplumber
+beautifulsoup4
+PyMuPDF
+faiss-cpu
